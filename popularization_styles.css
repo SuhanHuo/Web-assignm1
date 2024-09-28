@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+   color: white;
+   
+}
+body{
+    background-color: rgb(103, 178, 233);
+}
+html {
+	background-color:rgb(96, 144, 206);
+}
+header {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+ nav a {
+    color: #ffffff;
+}
+header {
+    background: #7090a5;
+    color: #ffffff;
+}
+
+body>h1{
+    text-align: center;
+}
+
+body>section>aside{
+    background-color: rgb(255,255,255,0.5);
+}
+
+footer{
+    background-color:#35424a;
+}
+
+#rightcol a,#leftcol a{
+    text-decoration: none;
+    color:rgb(64, 64, 172)
+}
+
+header>nav>ul>li>a{
+    text-decoration: none;
+    color:white
+}
